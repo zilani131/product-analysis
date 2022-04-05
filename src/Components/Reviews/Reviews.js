@@ -1,9 +1,11 @@
 import React from 'react';
-
+import useReviews from '../../Hooks/useReviews';
+import Card from '../Card/Card';
 const Reviews = () => {
+    const [users,setUsers]=useReviews()
     return (
         <div>
-            <h1>This is review</h1>
+            {users.map(user=><Card id={user.id} user={user}></Card>)}
         </div>
     );
 };
