@@ -1,0 +1,45 @@
+[
+  {
+    "name": "user1",
+    "comment": "have a good experience",
+    "id": 1,
+    "img": "img/user1.png",
+    "rating":4.5
+  },
+  {
+    "name": "user2",
+    "comment": "have a good experience",
+    "id": 2,
+    "img": "img/user2.png",
+    "rating":4.7
+
+  },
+  {
+    "name": "user3",
+    "comment": "have a good experience",
+    "id": 3,
+    "img": "img/user3.png",
+    "rating":4.4
+  },
+  {
+    "name": "user4",
+    "comment": "have a good experience",
+    "id": 4,
+    "img": "img/user4.png",
+    "rating":5
+  },
+  {
+    "name": "user5",
+    "comment": "have a good experience",
+    "id": 5,
+    "img": "img/user5.png",
+    "rating":4.8
+  },
+  {
+    "name": "user6",
+    "comment": "have a good experience",
+    "id": 6,
+    "img": "img/user6.png",
+    "rating":4.7
+  }
+]
