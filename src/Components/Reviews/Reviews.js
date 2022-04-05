@@ -4,7 +4,7 @@ import Card from '../Card/Card';
 const Reviews = () => {
     const [users,setUsers]=useReviews()
     return (
-        <div>
+        <div className=' w-9/12 grid sm:grid-cols-3 gap-4 my-4 mx-auto '>
             {users.map(user=><Card id={user.id} user={user}></Card>)}
         </div>
     );

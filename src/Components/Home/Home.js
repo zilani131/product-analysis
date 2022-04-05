@@ -26,7 +26,7 @@ const Home = () => {
         {/* home reviews */}
         <div className=' items-center' >
                  <h2 className='text-center '>Customer Reviews</h2>
-                 <div className=' w-9/12 grid grid-cols-3 gap-4 my-4 mx-auto '>
+                 <div className=' w-9/12 grid grid-cols-3 gap-4 my-4 mx-auto  '>
                      {(users.map(user=><Card id={user.id} user={user}></Card>)).slice(0,3)}
                  </div>
                  <div className='w-fit mx-auto my-10' >

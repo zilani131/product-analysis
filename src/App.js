@@ -8,7 +8,7 @@ import Reviews from './Components/Reviews/Reviews'
 import NotFound from './Components/NotFound/NotFound'
 function App() {
   return (
-    <div >
+    <div>
       <Header></Header>
         <Routes>
           <Route path='/home' element={<Home></Home>}> </Route>
