@@ -1,4 +1,4 @@
-# Live link: [Pc Bazar](https://melodious-monstera-b2e0c9.netlify.app/)
+# Live link: [Pc Bazar](https://curious-basbousa-445312.netlify.app/blogs)
 # Code link: [https://github.com/programming-hero-web-course-4/product-analysis-website-zilani131]
 ## Technology used
 * [React](https://reactjs.org/)
