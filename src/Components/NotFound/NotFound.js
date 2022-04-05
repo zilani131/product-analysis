@@ -3,7 +3,8 @@ import React from 'react';
 const NotFound = () => {
     return (
         <div>
-            <h1>Page is not available 404</h1>
+            {/* Not found page */}
+            <h1 className=' text-center my-10 text-6xl font-bold'>Page is not available 404</h1>
         </div>
     );
 };

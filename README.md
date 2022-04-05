@@ -1,4 +1,31 @@
-# Getting Started with Create React App
+# Live link: [Pc Bazar](https://melodious-monstera-b2e0c9.netlify.app/)
+# Code link: [https://github.com/programming-hero-web-course-4/product-analysis-website-zilani131]
+## Technology used
+* [React](https://reactjs.org/)
+* [React-Tailwind](https://tailwindcss.com/docs/guides/create-react-app)
+* [Recharts](https://recharts.org/en-US/)
+* [HeroIcon](https://heroicons.com/)
+## Component Name
+* ### Blogs
+    #### Contain the Q&A
+* ### Card
+    #### Contain the user information and feed back
+* ### CustomLink 
+    #### Create active link
+* ### Dashboard
+    #### Contain graph
+* ### Header
+    #### Contain Navbar
+* ### Home 
+    #### Contain the Home page of the website
+* ### NotFound
+    #### show the 404
+* ### Reviews 
+     #### Contain users Reviews
+## Data
+  * data.json
+  * user.json
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
